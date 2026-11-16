@@ -1,0 +1,19 @@
+# Python environment
+venv/
+venv_old/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Uploaded and generated documents
+uploads/*
+output/*
+
+# Keep folder structures
+!uploads/.gitkeep
+!output/.gitkeep
+
+# IDE
+.vscode/
